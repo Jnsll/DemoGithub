@@ -7,7 +7,7 @@ import argparse
 # 1 : Preprocessing
 # Creation of the files with all the necessary data
 
-print("Changement main test Git")
+print("Changement main test Git, bis, branch")
 
 if __name__ == "__main__":
 
